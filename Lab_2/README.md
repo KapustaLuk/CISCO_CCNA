@@ -19,7 +19,9 @@
 * Часть 4. Настройка расширенной сети VLAN
 
 ## Часть 1: VTP
-!
+
 Switch# configure terminal
+
 Switch(config)# hostname S2
+
 S2(config)#
