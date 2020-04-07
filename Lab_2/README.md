@@ -1,6 +1,6 @@
 ## Лабораторная работа. Настройка расширенных сетей VLAN, VTP и DTP
 ###	Топология
-![](https://github.com/KapustaLuk/CISCO_CCNA/blob/master/Lab_2/Topol.png)
+![](https://github.com/KapustaLuk/CISCO_CCNA/blob/master/Lab_2/Screenshot_402.png)
 ### 	Таблица адресации
 
 |Заголовок |таблицы	|Интерфейс	IP-адрес|	Маска подсет|
