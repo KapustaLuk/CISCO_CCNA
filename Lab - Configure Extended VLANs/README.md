@@ -7,5 +7,4 @@
 Привет пока
 ip
 
-![] (https://github.com/KapustaLuk/CISCO_CCNA/blob/master/Lab%20-%20Configure%20Extended%20VLANs/Topol.png)
-[image1]: https://github.com/KapustaLuk/CISCO_CCNA/blob/master/Lab%20-%20Configure%20Extended%20VLANs/Topol.png
+![] (https://github.com/KapustaLuk/CISCO_CCNA/blob/master/Lab%20-%20Configure%20Extended%20VLANs/Topol.png/150x100)
