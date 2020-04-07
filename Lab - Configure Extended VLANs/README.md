@@ -7,6 +7,5 @@
 Привет пока
 ip
 
-![] (file:///C:/Users/Admin/Documents/IMG_3602.jpg)
-
-[image1]: //C:\Users\Admin\Documents\IMG_3602.jpg
+![] (https://github.com/KapustaLuk/CISCO_CCNA/blob/master/Lab%20-%20Configure%20Extended%20VLANs/Topol.png)
+[image1]: https://github.com/KapustaLuk/CISCO_CCNA/blob/master/Lab%20-%20Configure%20Extended%20VLANs/Topol.png
