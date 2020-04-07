@@ -7,4 +7,6 @@
 Привет пока
 ip
 
-![альт](//C:\Users\Admin\Documents\Topol.png)
+![] (file:///C:/Users/Admin/Documents/IMG_3602.jpg)
+
+[image1]: //C:\Users\Admin\Documents\IMG_3602.jpg
